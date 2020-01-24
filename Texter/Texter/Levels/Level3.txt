@@ -1,0 +1,27 @@
+﻿▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓            ▼                      ▓                ▓
+▓                                   ▓                ▓
+▓     0                             ▓       ѽ        ▓
+▓                ▲                  ▓                ▓
+▓                                   ▓                ▓
+▓                                   ▓                ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓       ▓▓▓▓▓▓    ▓▓▓▓▓▓▓▓
+▓                                    ▼               ▓
+▓                                                    ▓
+▓                                                    ▓
+▓                             ◄                      ▓
+▓                                                    ▓
+▓                                      ▲             ▓
+▓                                                    ▓
+▓▓▓▓▓▓▓▓▓▓▓     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓     ▼                              ▓               ▓
+▓                    ▼                               ▓
+▓ ѽ                           ▲               @      ▓
+▓                                                    ▓
+▓                                    ▓               ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+You can pick up the power-ups to boost your level.    
+If you're level is more than zero, try attacking the
+arrows from the side... if they hit you first your
+level will go down and you'll lose all your points.
