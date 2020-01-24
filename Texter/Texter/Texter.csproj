@@ -5,4 +5,18 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Levels\Level1.txt" />
+    <None Remove="Levels\Level2.txt" />
+    <None Remove="Levels\Level3.txt" />
+    <None Remove="Levels\Level4.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Levels\Level1.txt" />
+    <EmbeddedResource Include="Levels\Level2.txt" />
+    <EmbeddedResource Include="Levels\Level3.txt" />
+    <EmbeddedResource Include="Levels\Level4.txt" />
+  </ItemGroup>
+
 </Project>

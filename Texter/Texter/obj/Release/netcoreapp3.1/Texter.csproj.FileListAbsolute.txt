@@ -1,0 +1,11 @@
+C:\Users\josep\source\repos\Texter\Texter\bin\Release\netcoreapp3.1\Texter.exe
+C:\Users\josep\source\repos\Texter\Texter\bin\Release\netcoreapp3.1\Texter.deps.json
+C:\Users\josep\source\repos\Texter\Texter\bin\Release\netcoreapp3.1\Texter.runtimeconfig.json
+C:\Users\josep\source\repos\Texter\Texter\bin\Release\netcoreapp3.1\Texter.runtimeconfig.dev.json
+C:\Users\josep\source\repos\Texter\Texter\bin\Release\netcoreapp3.1\Texter.dll
+C:\Users\josep\source\repos\Texter\Texter\bin\Release\netcoreapp3.1\Texter.pdb
+C:\Users\josep\source\repos\Texter\Texter\obj\Release\netcoreapp3.1\Texter.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\Texter\Texter\obj\Release\netcoreapp3.1\Texter.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Texter\Texter\obj\Release\netcoreapp3.1\Texter.AssemblyInfo.cs
+C:\Users\josep\source\repos\Texter\Texter\obj\Release\netcoreapp3.1\Texter.dll
+C:\Users\josep\source\repos\Texter\Texter\obj\Release\netcoreapp3.1\Texter.pdb

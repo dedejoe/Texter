@@ -1,11 +1,11 @@
 ﻿▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                      ▼            ▓                ▓
 ▓                                   ▓                ▓
+▓                      ▼            ▓                ▓
 ▓     0                       ѽ             @        ▓
 ▓                ▲                                   ▓
 ▓                                   ▓                ▓
 ▓                                   ▓                ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  
-
-If your above level 0 you can attack monsters from the
-side!
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  
+If your above level is above zero you can attack
+monsters from the side!

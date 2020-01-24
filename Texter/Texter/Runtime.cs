@@ -8,6 +8,7 @@ namespace Texter
     {
         static void Main(string[] args)
         {
+            bool gameRunning = true;
             Console.SetWindowSize(100, 40);
             Game game = new Game();
             Console.OutputEncoding = System.Text.Encoding.UTF8;
@@ -24,7 +25,7 @@ namespace Texter
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
 
-            while (true)
+            while (gameRunning)
             {
                 //Draw the board
                 stopwatch.Stop();
@@ -59,6 +60,7 @@ namespace Texter
                     switch (response.Key)
                     {
                         case ConsoleKey.Escape:
+                            gameRunning = false;
                             Environment.Exit(0);
                             break;
                         case ConsoleKey.F2:
@@ -81,7 +83,9 @@ namespace Texter
 
                 if (game.IsOver())
                 {
+                    if (Console.CursorTop > 0) {
                         Console.SetCursorPosition(0, Console.CursorTop - 1);
+                    }
                     if (game.Won())
                     {
                         Console.ForegroundColor = ConsoleColor.Yellow;

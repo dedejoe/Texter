@@ -37,7 +37,7 @@ namespace Texter
 
             int counter = -1;
 
-            while(true)
+            while (true)
             {
                 line = streamReader.ReadLine();
                 if (line == null) break;

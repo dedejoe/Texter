@@ -16,7 +16,7 @@ namespace Texter
         {
             x = startingX;
             y = startingY;
-            level = 0;
+            level = startingLevel;
             alive = true;
             visible = true;
         }

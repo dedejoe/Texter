@@ -48,11 +48,24 @@ namespace Texter
 
         public void Start()
         {
-            Console.Clear();
             over = false;
             arrowMonsters = new LinkedList<ArrowMonster>();
             board = new Board("level" + level, this);
-            hero = new Hero(board.startingX, board.startingY, 0);
+            if (IsOver()) return;
+
+            //If this is our first time, initialize hero to 0, else keep his old level.
+            if (hero == null)
+            {
+                hero = new Hero(board.startingX, board.startingY, 0);
+            }
+            else
+            {
+                hero = new Hero(board.startingX, board.startingY, hero.GetLevel());
+            }
+
+            Console.Clear();
+            board.SetTileAt(hero.GetX(), hero.GetY(), (char)(hero.GetLevel() + 48));
+
         }
         public void RestartLevel()
         {
